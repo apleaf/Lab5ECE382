@@ -1,7 +1,8 @@
 Lab5ECE382
 ==========
 
-Day 2  and RequiredFunctionality verified by Captain Trimble
+Required Functionality:
+http://youtu.be/v1W9mqv_yLc
 
 
 Lab5 Controlling Lights with remote
