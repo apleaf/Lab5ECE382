@@ -29,3 +29,15 @@ Initially, I was unsure of what I needed to change in the pinChange method.  Eri
 I was very confused about what I was supposed to do for this lab initially.  After speaking with Erik and he explained the two if statements I needed to add, I finally understood what it was doing and felt like I really comprehended what was going on.  
 
 Documentation: C2C Erik Thompson explained the two if statements i needed to add to the start.c file to alter the irPacket value.
+
+
+##Questions
+1) How long will it take the timer to roll over? 
+-65.54 milliseconds
+2) How long does each timer count last?
+-One microsecond
+
+
+Annotate the picture below to indicate which line of the for loop in the program is executed at which part of the pulse. You should show a total of 6 lines of code (lines 32-34 and lines 36-38). 
+
+![alt text](http://i60.tinypic.com/2rgosyf.png)
